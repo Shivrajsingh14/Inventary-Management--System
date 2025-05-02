@@ -5,9 +5,9 @@
 
 ## Quick Installation
 
-    git clone https://github.com/ekramasif/Inventary-Management--System.git
+    git clone https://github.com/Shivrajsingh14/Inventary-Management--System.git
 
-    cd Inventory_Management_System
+    cd Inventory-Management-System
     
 ### Composer
 
